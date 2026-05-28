@@ -1,6 +1,5 @@
 Simulation Results:
 
-<img width="813" height="297" alt="Image" src="https://github.com/user-attachments/assets/bab45f9f-5923-4832-b88f-6eb1bb8ebe2e" />
 
 <img width="824" height="473" alt="Image" src="https://github.com/user-attachments/assets/94d97aab-1080-45ca-bd01-4e86e334ed39" />
 
@@ -15,3 +14,7 @@ Terminal Truth Table Output:
 
 
 <img width="345" height="467" alt="Image" src="https://github.com/user-attachments/assets/f37e4137-7622-44c9-a772-db0e46de00f1" />
+
+Synthesis Output:
+
+ <img width="795" height="465" alt="Image" src="https://github.com/user-attachments/assets/d05ce7a5-c760-49ad-8823-9a480dfdcf63" />
