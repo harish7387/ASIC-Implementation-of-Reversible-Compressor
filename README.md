@@ -48,22 +48,9 @@ RTL/
 Testbench/
 │── tb_reversible_4_2_compressor.v
 
-Synthesis/
-│── genus_scripts/
-│── reports/
+outputs.md/
+│── simulation/
 
-Physical_Design/
-│── floorplan/
-│── placement/
-│── routing/
-│── timing_reports/
-
-Simulation/
-│── waveforms/
-│── screenshots/
-
-Docs/
-│── project_report.pdf
 
 README.md
 ```
