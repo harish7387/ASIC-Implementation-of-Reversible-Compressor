@@ -18,3 +18,7 @@ Terminal Truth Table Output:
 Synthesis Output:
 
  <img width="795" height="465" alt="Image" src="https://github.com/user-attachments/assets/d05ce7a5-c760-49ad-8823-9a480dfdcf63" />
+
+PnR:
+
+<img width="756" height="439" alt="Image" src="https://github.com/user-attachments/assets/7fe1616f-3dd9-4c46-ab62-961e1b5eb3b3" />
