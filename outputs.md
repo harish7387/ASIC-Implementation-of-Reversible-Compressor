@@ -10,4 +10,8 @@ Port List:
 <img width="625" height="354" alt="Image" src="https://github.com/user-attachments/assets/d446dc38-345a-472d-91d2-110d9e4babcd" />
 
 Terminal Truth Table Output:
+
+
+
+
 <img width="345" height="467" alt="Image" src="https://github.com/user-attachments/assets/f37e4137-7622-44c9-a772-db0e46de00f1" />
